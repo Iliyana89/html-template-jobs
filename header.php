@@ -15,5 +15,17 @@
 		<header class="site-header">
 			<h1 class="site-title"><a href="#">Job Offers</a></h1>
 		</header>
+		<div class="container">
+			<div class="header clearfix">
+				<nav>
+					<ul class="nav nav-pills pull-right">
+						<li role="presentation" class="active"><a href="#">home</a></li>
+						<li role="presentation" class="active"><a href="#">about</a></li>
+						<li role="presentation" class="active"><a href="#">contact</a></li>
+					</ul>
+				</nav>
+			</div>
+		<div>
+		
 
 		
